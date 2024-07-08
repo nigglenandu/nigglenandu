@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nigglenandu
-- 👀 I’m interested in Full Stack Software Engnieering with Java.
+- 👀 I’m interested in Full Stack Software Engnieering with Java, vdo editin and graphic desigin.
 - 🌱 I’m currently learning java with DSA and Development.
 - 💞️ I’m looking to collaborate on software development.
 - 📫 How to reach me -> Niggle NanDu in fb, instagram, youtube, linkedIn.
